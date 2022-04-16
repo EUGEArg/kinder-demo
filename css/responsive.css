@@ -1,0 +1,21 @@
+@media(max-width: 768px) {
+    .img-size {
+        width: 100%;
+    }
+
+    .gallery-img {
+       width: 100%;
+    }
+
+    .img-galeria {
+        height: 200px;
+    }
+
+    .footer-container {
+        justify-content: space-around;
+    }
+
+    .section-4-text {
+        top: 20%;
+    }
+}
